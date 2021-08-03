@@ -56,10 +56,10 @@ $ sourcer env_name/bin/activate
 $ pip3 install -r requirements.txt
 
 # get up the container and test with Insomnia or Postman
-$ python manage.py runserver
+$ python3 manage.py runserver
 
 # For tests
-$ python manage.py test
+$ python3 manage.py test
 
 ```
 
