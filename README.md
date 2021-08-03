@@ -29,9 +29,7 @@ Technologies that I used to develop this API
 - [Python 3.6](https://https://www.python.org/)
 - [Django](https://www.djangoproject.com/)
 - [Django REST framework](https://www.django-rest-framework.org/)
-- [Postgresql](https://www.sqlite.org/index.html)
-- [Docker](https://docs.docker.com/)
-- [Docker-Compose](https://docs.docker.com/compose/)
+- [Postgresql](https://www.postgresql.org/)
 
 ## 💻 Getting Started
 
