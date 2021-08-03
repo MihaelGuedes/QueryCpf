@@ -55,6 +55,9 @@ $ sourcer env_name/bin/activate
 # run the requirements dependences
 $ pip3 install -r requirements.txt
 
+# migrate the database
+$ python3 manage.py migrate
+
 # get up the container and test with Insomnia or Postman
 $ python3 manage.py runserver
 
